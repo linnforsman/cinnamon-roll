@@ -1,19 +1,34 @@
 body {
   background-color: #ffd282;
+  font-family: cursive;
 }
 h1 {
   font-family: condensed, courier;
   text-align: center;
   color: #642d10;
+  font-size: 55px;
 }
 
 p {
   color: #9c622c;
+  padding: auto;
+  margin: auto;
 }
 a {
   color: #36220f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d88f4d;
+}
+
+.page-links {
+  font-size: 25px;
 }
 
 footer {
   text-align: center;
+  color: #b67233;
+  opacity: 88%;
 }

@@ -1,12 +1,19 @@
 body {
   background-color: #ffd282;
   font-family: cursive;
+  margin-top: 100px;
 }
 h1 {
   font-family: condensed, courier;
   text-align: center;
   color: #642d10;
   font-size: 55px;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  max-width: 130px;
 }
 
 p {

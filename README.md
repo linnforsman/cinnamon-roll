@@ -1,2 +1,2 @@
-# cinnamon-bun
- This is a challenge in lesson 5, week 3 at SheCodes Responsive workshop called 'Multiple Page Hosting'
+# cinnamon-roll
+This is a multiple page hosting challenge from SheCodes Responsive week 3 lesson 5.
